@@ -80,7 +80,8 @@ streamlit run app.py
 ## 👨‍💻 Developed By
 
 **Naman Jain**
-📧 Email: [namanofficial57@gmail.com](mailto:namanofficial57@gmail.com)
+📧 Email: [namanjain042002@gmail.com]
+
 🔗 LinkedIn: [linkedin.com/in/naman-jain-770440222](https://linkedin.com/in/naman-jain-770440222)
 
 ---
