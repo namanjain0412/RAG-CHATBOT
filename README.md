@@ -31,15 +31,25 @@ cd rag-chatbot-amlgo
 
 Create & activate virtual environment (optional)
 
+bash
+Copy
+Edit
 python -m venv venv
 source venv/bin/activate      # macOS/Linux
 venv\Scripts\activate         # Windows
-
 Install dependencies
-pip install -r requirements.txt
 
+bash
+Copy
+Edit
+pip install -r requirements.txt
 Run the app
+
+bash
+Copy
+Edit
 streamlit run app.py
+
 
 🧠 Models & Tools Used
 Component	Description
